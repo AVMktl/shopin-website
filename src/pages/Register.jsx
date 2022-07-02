@@ -5,22 +5,23 @@ import { mobile } from "../Response";
 const Container = styled.div`
   width: 100vw;
   height: 100vh;
-  background-color: red;
   display: flex;
   justify-content: center;
   align-items: center;
   background: linear-gradient(
-      rgba(255, 255, 255, 0.5),
-      rgba(255, 255, 255, 0.5)
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.3)
     ),
-    url("https://5.imimg.com/data5/SELLER/Default/2020/10/CD/IZ/IY/12789060/mens-jackets-500x500.jpg")
+    url("https://cmmodels.com/wp-content/uploads/2017/02/urban-model-modelingagency-style-fashion-label-fancy-beauty-streetstyle.jpg")
       center;
+
+      background-size: cover;
 `;
 
 const Wrapper = styled.div`
   width: 40%;
   padding: 25px;
-  background-color: pink;
+  background-color: white;
   ${mobile({ width: "75%" })};
 `;
 

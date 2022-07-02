@@ -10,17 +10,19 @@ const Container = styled.div`
   justify-content: center;
   align-items: center;
   background: linear-gradient(
-      rgba(255, 255, 255, 0.5),
-      rgba(255, 255, 255, 0.5)
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.3)
     ),
-    url("https://5.imimg.com/data5/SELLER/Default/2020/10/CD/IZ/IY/12789060/mens-jackets-500x500.jpg")
-      center;
+    url("https://wallpapercave.com/wp/wp5843017.jpg") center;
+
+    background-repeat: no-repeat;
+    background-size: 100%;
 `;
 
 const Wrapper = styled.div`
   width: 25%;
   padding: 25px;
-  background-color: pink;
+  background-color: white;
   ${mobile({ width: "75%" })};
 `;
 
@@ -59,6 +61,7 @@ const Link = styled.a`
   font-size: 12px;
   text-decoration: underline;
   margin-top: 10px;
+  cursor: pointer;
 `;
 
 const Login = () => {

@@ -209,14 +209,14 @@ const Cart = () => {
                     <ProductColor color="green" />
                   </ProductColorJoint>
                   <ProductSize>
-                    <b>Size: </b>37.5
+                    <b>Size: </b>M
                   </ProductSize>
                 </Details>
               </ProductDetails>
               <PriceDetails>
                 <ProductAmountContainer>
                   <AddCircleOutlinedIcon />
-                  <ProductAmount>2</ProductAmount>
+                  <ProductAmount>1</ProductAmount>
                   <RemoveCircleOutlinedIcon />
                 </ProductAmountContainer>
                 <ProductPrice>₹ 2000</ProductPrice>
@@ -225,19 +225,19 @@ const Cart = () => {
             <Hr />
             <Product>
               <ProductDetails>
-                <Image src="https://5.imimg.com/data5/SELLER/Default/2020/10/CD/IZ/IY/12789060/mens-jackets-500x500.jpg" />
+                <Image src="https://cdn.shopify.com/s/files/1/0753/2615/products/88610Navy_1_600x.jpg?v=1646120654" />
                 <Details>
                   <ProductName>
-                    <b>Product: </b>DENNIM JACKET
+                    <b>Product: </b>ADIDAS SHOES
                   </ProductName>
                   <ProductId>
-                    <b>ID: </b>123456
+                    <b>ID: </b>295456
                   </ProductId>
                   <ProductColorJoint>
                     <ProductColorTag>
                       <b>Color: </b>
                     </ProductColorTag>
-                    <ProductColor color="green" />
+                    <ProductColor color="darkblue" />
                   </ProductColorJoint>
                   <ProductSize>
                     <b>Size: </b>37.5
@@ -247,31 +247,31 @@ const Cart = () => {
               <PriceDetails>
                 <ProductAmountContainer>
                   <AddCircleOutlinedIcon />
-                  <ProductAmount>2</ProductAmount>
+                  <ProductAmount>3</ProductAmount>
                   <RemoveCircleOutlinedIcon />
                 </ProductAmountContainer>
-                <ProductPrice>₹ 2000</ProductPrice>
+                <ProductPrice>₹ 3000</ProductPrice>
               </PriceDetails>
             </Product>
             <Hr />
             <Product>
               <ProductDetails>
-                <Image src="https://5.imimg.com/data5/SELLER/Default/2020/10/CD/IZ/IY/12789060/mens-jackets-500x500.jpg" />
+                <Image src="https://static.pullandbear.net/2/photos/2022/I/0/1/p/4684/323/407/4684323407_1_1_3.jpg?t=1652113866575" />
                 <Details>
                   <ProductName>
-                    <b>Product: </b>DENNIM JACKET
+                    <b>Product: </b>DENNIM JEANS
                   </ProductName>
                   <ProductId>
-                    <b>ID: </b>123456
+                    <b>ID: </b>405076
                   </ProductId>
                   <ProductColorJoint>
                     <ProductColorTag>
                       <b>Color: </b>
                     </ProductColorTag>
-                    <ProductColor color="green" />
+                    <ProductColor color="blue" />
                   </ProductColorJoint>
                   <ProductSize>
-                    <b>Size: </b>37.5
+                    <b>Size: </b>L
                   </ProductSize>
                 </Details>
               </ProductDetails>
@@ -281,100 +281,69 @@ const Cart = () => {
                   <ProductAmount>2</ProductAmount>
                   <RemoveCircleOutlinedIcon />
                 </ProductAmountContainer>
-                <ProductPrice>₹ 2000</ProductPrice>
+                <ProductPrice>₹ 1500</ProductPrice>
               </PriceDetails>
             </Product>
             <Hr />
             <Product>
               <ProductDetails>
-                <Image src="https://5.imimg.com/data5/SELLER/Default/2020/10/CD/IZ/IY/12789060/mens-jackets-500x500.jpg" />
+                <Image src="https://m.media-amazon.com/images/I/71xzMdBSLaL._UL1500_.jpg" />
                 <Details>
                   <ProductName>
-                    <b>Product: </b>DENNIM JACKET
+                    <b>Product: </b>GIRLS HODDIES 
                   </ProductName>
                   <ProductId>
-                    <b>ID: </b>123456
+                    <b>ID: </b>258994
                   </ProductId>
                   <ProductColorJoint>
                     <ProductColorTag>
                       <b>Color: </b>
                     </ProductColorTag>
-                    <ProductColor color="green" />
+                    <ProductColor color="lightpink" />
                   </ProductColorJoint>
                   <ProductSize>
-                    <b>Size: </b>37.5
+                    <b>Size: </b>S
                   </ProductSize>
                 </Details>
               </ProductDetails>
               <PriceDetails>
                 <ProductAmountContainer>
                   <AddCircleOutlinedIcon />
-                  <ProductAmount>2</ProductAmount>
+                  <ProductAmount>3</ProductAmount>
                   <RemoveCircleOutlinedIcon />
                 </ProductAmountContainer>
-                <ProductPrice>₹ 2000</ProductPrice>
+                <ProductPrice>₹ 1800</ProductPrice>
               </PriceDetails>
             </Product>
             <Hr />
             <Product>
               <ProductDetails>
-                <Image src="https://5.imimg.com/data5/SELLER/Default/2020/10/CD/IZ/IY/12789060/mens-jackets-500x500.jpg" />
+                <Image src="https://i5.walmartimages.com/asr/31782ab9-b026-4781-a60e-68e510ae74bb.be3310d789c2bad7308181c24425b5f3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff" />
                 <Details>
                   <ProductName>
-                    <b>Product: </b>DENNIM JACKET
+                    <b>Product: </b>STYLISH BLAZER
                   </ProductName>
                   <ProductId>
-                    <b>ID: </b>123456
+                    <b>ID: </b>432952
                   </ProductId>
                   <ProductColorJoint>
                     <ProductColorTag>
                       <b>Color: </b>
                     </ProductColorTag>
-                    <ProductColor color="green" />
+                    <ProductColor color="lightblue" />
                   </ProductColorJoint>
                   <ProductSize>
-                    <b>Size: </b>37.5
+                    <b>Size: </b>M
                   </ProductSize>
                 </Details>
               </ProductDetails>
               <PriceDetails>
                 <ProductAmountContainer>
                   <AddCircleOutlinedIcon />
-                  <ProductAmount>2</ProductAmount>
+                  <ProductAmount>1</ProductAmount>
                   <RemoveCircleOutlinedIcon />
                 </ProductAmountContainer>
-                <ProductPrice>₹ 2000</ProductPrice>
-              </PriceDetails>
-            </Product>
-            <Hr />
-            <Product>
-              <ProductDetails>
-                <Image src="https://5.imimg.com/data5/SELLER/Default/2020/10/CD/IZ/IY/12789060/mens-jackets-500x500.jpg" />
-                <Details>
-                  <ProductName>
-                    <b>Product: </b>DENNIM JACKET
-                  </ProductName>
-                  <ProductId>
-                    <b>ID: </b>123456
-                  </ProductId>
-                  <ProductColorJoint>
-                    <ProductColorTag>
-                      <b>Color: </b>
-                    </ProductColorTag>
-                    <ProductColor color="green" />
-                  </ProductColorJoint>
-                  <ProductSize>
-                    <b>Size: </b>37.5
-                  </ProductSize>
-                </Details>
-              </ProductDetails>
-              <PriceDetails>
-                <ProductAmountContainer>
-                  <AddCircleOutlinedIcon />
-                  <ProductAmount>2</ProductAmount>
-                  <RemoveCircleOutlinedIcon />
-                </ProductAmountContainer>
-                <ProductPrice>₹ 2000</ProductPrice>
+                <ProductPrice>₹ 2200</ProductPrice>
               </PriceDetails>
             </Product>
           </Info>
@@ -382,19 +351,19 @@ const Cart = () => {
             <SummaryTitle>ORDER SUMMARY</SummaryTitle>
             <SummaryItem>
               <SummaryItemText>Subtotal</SummaryItemText>
-              <SummaryItemPrice>₹ 2000</SummaryItemPrice>
+              <SummaryItemPrice>₹ 10500</SummaryItemPrice>
             </SummaryItem>
             <SummaryItem>
               <SummaryItemText>Estimated Shipping</SummaryItemText>
-              <SummaryItemPrice>₹ 100</SummaryItemPrice>
+              <SummaryItemPrice>₹ 200</SummaryItemPrice>
             </SummaryItem>
             <SummaryItem>
               <SummaryItemText>Shipping Discount</SummaryItemText>
-              <SummaryItemPrice>₹ -100</SummaryItemPrice>
+              <SummaryItemPrice>₹ -200</SummaryItemPrice>
             </SummaryItem>
             <SummaryItem type="total">
               <SummaryItemText>Total</SummaryItemText>
-              <SummaryItemPrice>₹ 2000</SummaryItemPrice>
+              <SummaryItemPrice>₹ 10500</SummaryItemPrice>
             </SummaryItem>
             <Button>SHOP NOW</Button>
           </Summary>
