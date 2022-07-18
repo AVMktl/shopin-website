@@ -1,4 +1,4 @@
-# ShopIN
+# ShopIn 🛒
 
 ## Description
 Front-end of a responsive eCommerce website named “ShopIN” using front-end technologies React.js and JavaScript.
